@@ -1,3 +1,3 @@
-criei html e css
+criei html
 js
 adiciona validação de usuário
